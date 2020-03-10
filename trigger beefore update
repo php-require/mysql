@@ -1,4 +1,3 @@
- 
 delimiter $$
 CREATE TRIGGER updateEmployees
 BEFORE UPDATE ON employees
